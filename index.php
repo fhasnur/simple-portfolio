@@ -56,6 +56,12 @@
         </div>
         <!-- Akhir Jumbotron -->
 
+        <!-- Awal About Me -->
+        <section>
+            <h2>About Me</h2>
+        </section>
+        <!-- Akhir About Me -->
+
         <!-- Awal My Skills -->
         <section class="my-skills" data-aos-offset="3000">
             <h2>My Skills</h2>
